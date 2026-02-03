@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+
+# Replace the URL below with your real site URL
+Sitemap: https://your-site.example.com/sitemap.xml
+
+# Crawl-delay can be set if needed (seconds)
+# Crawl-delay: 10
